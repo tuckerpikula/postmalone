@@ -6,7 +6,16 @@
 h2 {
   text-align: center;
 }
+h3 {
+  text-align: center;
+}
 
 #all {
   text-align: center;
+  display: flex;
+  margin: auto;
+  width: 50%;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
 }
